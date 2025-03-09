@@ -3,8 +3,10 @@
 ## Report
 100-taps FIR Filter Design and Implementation.pdf: The project report that illustrates everything of the project.
 
+
 ## MATLAB
-FIR_matlab.m: A MATLAB script used to calculated quantized coefficients and plot the frequencies.
+FIR_matlab.m: A MATLAB script used to calculate quantized coefficients and plot the frequencies.
+fir_coefficients.hex: Quantized coefficients calculated from MATLAB script. Used for the implementation in Verilog.
 
 ## Verilog
 fir_top.sv: The top module that contains all the testbench modules and organize other 4 implementations of FIR filters
