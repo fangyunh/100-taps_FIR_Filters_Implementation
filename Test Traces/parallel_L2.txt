@@ -1,0 +1,1077 @@
+
+==============================
+Zero Input Test (L=2)
+==============================
+[ZeroTest] cycle=115, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=125, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=135, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=145, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=155, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=165, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=175, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=185, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=195, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=205, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=215, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=225, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=235, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=245, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=255, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=265, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=275, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=285, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=295, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=305, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=315, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=325, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=335, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=345, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=355, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=365, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=375, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=385, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=395, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=405, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=415, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=425, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=435, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=445, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=455, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=465, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=475, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=485, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=495, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=505, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=515, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=525, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=535, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=545, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=555, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=565, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=575, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=585, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=595, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=605, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=615, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=625, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=635, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=645, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=655, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=665, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=675, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=685, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=695, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=705, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=715, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=725, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=735, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=745, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=755, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=765, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=775, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=785, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=795, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=805, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=815, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=825, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=835, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=845, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=855, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=865, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=875, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=885, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=895, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=905, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=915, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=925, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=935, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=945, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=955, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=965, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=975, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=985, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=995, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1005, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1015, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1025, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1035, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1045, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1055, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1065, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1075, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1085, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1095, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1105, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1115, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1125, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1135, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1145, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1155, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1165, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1175, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1185, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1195, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1205, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1215, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1225, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1235, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1245, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1255, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1265, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1275, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1285, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1295, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1305, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1315, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1325, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1335, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1345, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1355, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1365, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1375, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1385, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1395, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1405, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1415, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1425, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1435, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1445, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1455, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1465, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1475, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1485, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1495, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1505, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1515, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1525, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1535, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1545, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1555, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1565, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1575, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1585, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1595, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1605, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1615, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1625, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1635, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1645, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1655, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1665, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1675, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1685, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1695, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1705, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1715, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1725, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1735, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1745, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1755, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1765, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1775, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1785, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1795, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1805, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1815, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1825, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1835, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1845, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1855, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1865, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1875, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1885, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1895, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1905, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1915, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1925, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1935, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1945, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1955, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1965, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1975, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1985, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=1995, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2005, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2015, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2025, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2035, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2045, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2055, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2065, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2075, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2085, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2095, x0=     0, x1=     0, y0=     0, y1=     0
+[ZeroTest] cycle=2105, x0=     0, x1=     0, y0=     0, y1=     0
+
+==============================
+Impulse Response Test (L=2)
+==============================
+[Impulse] cycle=2115, x0= 32767, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2125, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2135, x0=     0, x1=     0, y0=   -21, y1=    -6
+[Impulse] cycle=2145, x0=     0, x1=     0, y0=   -94, y1=   -49
+[Impulse] cycle=2155, x0=     0, x1=     0, y0=  -208, y1=  -150
+[Impulse] cycle=2165, x0=     0, x1=     0, y0=  -231, y1=  -244
+[Impulse] cycle=2175, x0=     0, x1=     0, y0=    64, y1=  -136
+[Impulse] cycle=2185, x0=     0, x1=     0, y0=   781, y1=   376
+[Impulse] cycle=2195, x0=     0, x1=     0, y0=  1639, y1=  1227
+[Impulse] cycle=2205, x0=     0, x1=     0, y0=  2021, y1=  1930
+[Impulse] cycle=2215, x0=     0, x1=     0, y0=  1475, y1=  1867
+[Impulse] cycle=2225, x0=     0, x1=     0, y0=   271, y1=   906
+[Impulse] cycle=2235, x0=     0, x1=     0, y0=  -664, y1=  -293
+[Impulse] cycle=2245, x0=     0, x1=     0, y0=  -586, y1=  -764
+[Impulse] cycle=2255, x0=     0, x1=     0, y0=   257, y1=  -201
+[Impulse] cycle=2265, x0=     0, x1=     0, y0=   811, y1=   638
+[Impulse] cycle=2275, x0=     0, x1=     0, y0=   375, y1=   715
+[Impulse] cycle=2285, x0=     0, x1=     0, y0=  -532, y1=   -94
+[Impulse] cycle=2295, x0=     0, x1=     0, y0=  -738, y1=  -780
+[Impulse] cycle=2305, x0=     0, x1=     0, y0=   110, y1=  -406
+[Impulse] cycle=2315, x0=     0, x1=     0, y0=   947, y1=   629
+[Impulse] cycle=2325, x0=     0, x1=     0, y0=   498, y1=   915
+[Impulse] cycle=2335, x0=     0, x1=     0, y0=  -945, y1=  -198
+[Impulse] cycle=2345, x0=     0, x1=     0, y0= -1440, y1= -1448
+[Impulse] cycle=2355, x0=     0, x1=     0, y0=   559, y1=  -764
+[Impulse] cycle=2365, x0=     0, x1=     0, y0=  4189, y1=  2328
+[Impulse] cycle=2375, x0=     0, x1=     0, y0=  6612, y1=  5735
+[Impulse] cycle=2385, x0=     0, x1=     0, y0=  5735, y1=  6612
+[Impulse] cycle=2395, x0=     0, x1=     0, y0=  2328, y1=  4189
+[Impulse] cycle=2405, x0=     0, x1=     0, y0=  -764, y1=   559
+[Impulse] cycle=2415, x0=     0, x1=     0, y0= -1448, y1= -1440
+[Impulse] cycle=2425, x0=     0, x1=     0, y0=  -198, y1=  -945
+[Impulse] cycle=2435, x0=     0, x1=     0, y0=   915, y1=   498
+[Impulse] cycle=2445, x0=     0, x1=     0, y0=   629, y1=   947
+[Impulse] cycle=2455, x0=     0, x1=     0, y0=  -406, y1=   110
+[Impulse] cycle=2465, x0=     0, x1=     0, y0=  -780, y1=  -738
+[Impulse] cycle=2475, x0=     0, x1=     0, y0=   -94, y1=  -532
+[Impulse] cycle=2485, x0=     0, x1=     0, y0=   715, y1=   375
+[Impulse] cycle=2495, x0=     0, x1=     0, y0=   638, y1=   811
+[Impulse] cycle=2505, x0=     0, x1=     0, y0=  -201, y1=   257
+[Impulse] cycle=2515, x0=     0, x1=     0, y0=  -764, y1=  -586
+[Impulse] cycle=2525, x0=     0, x1=     0, y0=  -293, y1=  -664
+[Impulse] cycle=2535, x0=     0, x1=     0, y0=   906, y1=   271
+[Impulse] cycle=2545, x0=     0, x1=     0, y0=  1867, y1=  1475
+[Impulse] cycle=2555, x0=     0, x1=     0, y0=  1930, y1=  2021
+[Impulse] cycle=2565, x0=     0, x1=     0, y0=  1227, y1=  1639
+[Impulse] cycle=2575, x0=     0, x1=     0, y0=   376, y1=   781
+[Impulse] cycle=2585, x0=     0, x1=     0, y0=  -136, y1=    64
+[Impulse] cycle=2595, x0=     0, x1=     0, y0=  -244, y1=  -231
+[Impulse] cycle=2605, x0=     0, x1=     0, y0=  -150, y1=  -208
+[Impulse] cycle=2615, x0=     0, x1=     0, y0=   -49, y1=   -94
+[Impulse] cycle=2625, x0=     0, x1=     0, y0=    -6, y1=   -21
+[Impulse] cycle=2635, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2645, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2655, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2665, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2675, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2685, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2695, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2705, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2715, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2725, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2735, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2745, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2755, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2765, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2775, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2785, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2795, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2805, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2815, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2825, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2835, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2845, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2855, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2865, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2875, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2885, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2895, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2905, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2915, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2925, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2935, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2945, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2955, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2965, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2975, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2985, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=2995, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3005, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3015, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3025, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3035, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3045, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3055, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3065, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3075, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3085, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3095, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3105, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3115, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3125, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3135, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3145, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3155, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3165, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3175, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3185, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3195, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3205, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3215, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3225, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3235, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3245, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3255, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3265, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3275, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3285, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3295, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3305, x0=     0, x1=     0, y0=     0, y1=     0
+[Impulse] cycle=3315, x0=     0, x1=     0, y0=     0, y1=     0
+
+==============================
+Step Input Test (L=2)
+==============================
+[Step] cycle=3325, x0= 32767, x1= 32767, y0=     0, y1=     0
+[Step] cycle=3335, x0= 32767, x1= 32767, y0=     0, y1=     0
+[Step] cycle=3345, x0= 32767, x1= 32767, y0=   -27, y1=    -6
+[Step] cycle=3355, x0= 32767, x1= 32767, y0=  -170, y1=   -76
+[Step] cycle=3365, x0= 32767, x1= 32767, y0=  -528, y1=  -320
+[Step] cycle=3375, x0= 32767, x1= 32767, y0= -1003, y1=  -772
+[Step] cycle=3385, x0= 32767, x1= 32767, y0= -1074, y1= -1139
+[Step] cycle=3395, x0= 32767, x1= 32767, y0=    84, y1=  -697
+[Step] cycle=3405, x0= 32767, x1= 32767, y0=  2952, y1=  1312
+[Step] cycle=3415, x0= 32767, x1= 32767, y0=  6905, y1=  4883
+[Step] cycle=3425, x0= 32767, x1= 32767, y0= 10249, y1=  8773
+[Step] cycle=3435, x0= 32767, x1= 32767, y0= 11428, y1= 11156
+[Step] cycle=3445, x0= 32767, x1= 32767, y0= 10471, y1= 11135
+[Step] cycle=3455, x0= 32767, x1= 32767, y0=  9121, y1=  9707
+[Step] cycle=3465, x0= 32767, x1= 32767, y0=  9178, y1=  8920
+[Step] cycle=3475, x0= 32767, x1= 32767, y0= 10629, y1=  9817
+[Step] cycle=3485, x0= 32767, x1= 32767, y0= 11721, y1= 11345
+[Step] cycle=3495, x0= 32767, x1= 32767, y0= 11095, y1= 11627
+[Step] cycle=3505, x0= 32767, x1= 32767, y0=  9577, y1= 10315
+[Step] cycle=3515, x0= 32767, x1= 32767, y0=  9282, y1=  9171
+[Step] cycle=3525, x0= 32767, x1= 32767, y0= 10860, y1=  9912
+[Step] cycle=3535, x0= 32767, x1= 32767, y0= 12275, y1= 11776
+[Step] cycle=3545, x0= 32767, x1= 32767, y0= 11132, y1= 12077
+[Step] cycle=3555, x0= 32767, x1= 32767, y0=  8244, y1=  9684
+[Step] cycle=3565, x0= 32767, x1= 32767, y0=  8040, y1=  7480
+[Step] cycle=3575, x0= 32767, x1= 32767, y0= 14559, y1= 10369
+[Step] cycle=3585, x0= 32767, x1= 32767, y0= 26908, y1= 20295
+[Step] cycle=3595, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3605, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3615, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3625, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3635, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3645, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3655, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3665, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3675, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3685, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3695, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3705, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3715, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3725, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3735, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3745, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3755, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3765, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3775, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3785, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3795, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3805, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3815, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3825, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3835, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3845, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3855, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3865, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3875, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3885, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3895, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3905, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3915, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3925, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3935, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3945, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3955, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3965, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3975, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3985, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=3995, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4005, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4015, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4025, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4035, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4045, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4055, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4065, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4075, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4085, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4095, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4105, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4115, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4125, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4135, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4145, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4155, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4165, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4175, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4185, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4195, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4205, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4215, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4225, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4235, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4245, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4255, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4265, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4275, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4285, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4295, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4305, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4315, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4325, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4335, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4345, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4355, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4365, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4375, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4385, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4395, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4405, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4415, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4425, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4435, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4445, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4455, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4465, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4475, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4485, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4495, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4505, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4515, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4525, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4535, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4545, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4555, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4565, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4575, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4585, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4595, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4605, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4615, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4625, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4635, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4645, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4655, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4665, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4675, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4685, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4695, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4705, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4715, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4725, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4735, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4745, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4755, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4765, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4775, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4785, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4795, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4805, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4815, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4825, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4835, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4845, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4855, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4865, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4875, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4885, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4895, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4905, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4915, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4925, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4935, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4945, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4955, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4965, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4975, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4985, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=4995, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5005, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5015, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5025, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5035, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5045, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5055, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5065, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5075, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5085, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5095, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5105, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5115, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5125, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5135, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5145, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5155, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5165, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5175, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5185, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5195, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5205, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5215, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5225, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5235, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5245, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5255, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5265, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5275, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5285, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5295, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5305, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5315, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5325, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5335, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5345, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5355, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5365, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5375, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5385, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5395, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5405, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5415, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5425, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5435, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5445, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5455, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5465, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5475, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5485, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5495, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5505, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5515, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5525, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5535, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5545, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5555, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5565, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5575, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5585, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5595, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5605, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5615, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5625, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5635, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5645, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5655, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5665, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5675, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5685, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5695, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5705, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5715, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5725, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5735, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5745, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5755, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5765, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5775, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5785, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5795, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5805, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5815, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5825, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5835, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5845, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5855, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5865, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5875, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5885, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5895, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5905, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5915, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5925, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5935, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5945, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5955, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5965, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5975, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5985, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=5995, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6005, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6015, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6025, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6035, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6045, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6055, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6065, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6075, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6085, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6095, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6105, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6115, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6125, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6135, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6145, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6155, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6165, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6175, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6185, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6195, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6205, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6215, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6225, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6235, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6245, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6255, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6265, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6275, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6285, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6295, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6305, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step] cycle=6315, x0= 32767, x1= 32767, y0= 32767, y1= 32767
+[Step->0] cycle=6325, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6335, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6345, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6355, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6365, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6375, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6385, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6395, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6405, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6415, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6425, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6435, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6445, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6455, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6465, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6475, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6485, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6495, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6505, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6515, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6525, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6535, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6545, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6555, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6565, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6575, x0=     0, x1=     0, y0= 32767, y1= 32767
+[Step->0] cycle=6585, x0=     0, x1=     0, y0= 26908, y1= 32767
+[Step->0] cycle=6595, x0=     0, x1=     0, y0= 14559, y1= 20295
+[Step->0] cycle=6605, x0=     0, x1=     0, y0=  8040, y1= 10369
+[Step->0] cycle=6615, x0=     0, x1=     0, y0=  8244, y1=  7480
+[Step->0] cycle=6625, x0=     0, x1=     0, y0= 11132, y1=  9684
+[Step->0] cycle=6635, x0=     0, x1=     0, y0= 12275, y1= 12077
+[Step->0] cycle=6645, x0=     0, x1=     0, y0= 10860, y1= 11776
+[Step->0] cycle=6655, x0=     0, x1=     0, y0=  9282, y1=  9912
+[Step->0] cycle=6665, x0=     0, x1=     0, y0=  9577, y1=  9171
+[Step->0] cycle=6675, x0=     0, x1=     0, y0= 11095, y1= 10315
+[Step->0] cycle=6685, x0=     0, x1=     0, y0= 11721, y1= 11627
+[Step->0] cycle=6695, x0=     0, x1=     0, y0= 10629, y1= 11345
+[Step->0] cycle=6705, x0=     0, x1=     0, y0=  9178, y1=  9817
+[Step->0] cycle=6715, x0=     0, x1=     0, y0=  9121, y1=  8920
+[Step->0] cycle=6725, x0=     0, x1=     0, y0= 10471, y1=  9707
+[Step->0] cycle=6735, x0=     0, x1=     0, y0= 11428, y1= 11135
+[Step->0] cycle=6745, x0=     0, x1=     0, y0= 10249, y1= 11156
+[Step->0] cycle=6755, x0=     0, x1=     0, y0=  6905, y1=  8773
+[Step->0] cycle=6765, x0=     0, x1=     0, y0=  2952, y1=  4883
+[Step->0] cycle=6775, x0=     0, x1=     0, y0=    84, y1=  1312
+[Step->0] cycle=6785, x0=     0, x1=     0, y0= -1074, y1=  -697
+[Step->0] cycle=6795, x0=     0, x1=     0, y0= -1003, y1= -1139
+[Step->0] cycle=6805, x0=     0, x1=     0, y0=  -528, y1=  -772
+[Step->0] cycle=6815, x0=     0, x1=     0, y0=  -170, y1=  -320
+[Step->0] cycle=6825, x0=     0, x1=     0, y0=   -27, y1=   -76
+[Step->0] cycle=6835, x0=     0, x1=     0, y0=     0, y1=    -6
+[Step->0] cycle=6845, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6855, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6865, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6875, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6885, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6895, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6905, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6915, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6925, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6935, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6945, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6955, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6965, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6975, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6985, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=6995, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7005, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7015, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7025, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7035, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7045, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7055, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7065, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7075, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7085, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7095, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7105, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7115, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7125, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7135, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7145, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7155, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7165, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7175, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7185, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7195, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7205, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7215, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7225, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7235, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7245, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7255, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7265, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7275, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7285, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7295, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7305, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7315, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7325, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7335, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7345, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7355, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7365, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7375, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7385, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7395, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7405, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7415, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7425, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7435, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7445, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7455, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7465, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7475, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7485, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7495, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7505, x0=     0, x1=     0, y0=     0, y1=     0
+[Step->0] cycle=7515, x0=     0, x1=     0, y0=     0, y1=     0
+
+==============================
+Sine Wave Test (L=2)
+==============================
+[Sine] cycle=7525, x0=     0, x1=  3196, y0=     0, y1=     0
+[Sine] cycle=7535, x0=  6269, x1=  9102, y0=     0, y1=     0
+[Sine] cycle=7545, x0= 11584, x1= 13622, y0=    -1, y1=     0
+[Sine] cycle=7555, x0= 15136, x1= 16068, y0=   -11, y1=    -4
+[Sine] cycle=7565, x0= 16383, x1= 16068, y0=   -57, y1=   -27
+[Sine] cycle=7575, x0= 15136, x1= 13622, y0=  -172, y1=  -104
+[Sine] cycle=7585, x0= 11584, x1=  9102, y0=  -343, y1=  -256
+[Sine] cycle=7595, x0=  6269, x1=  3196, y0=  -425, y1=  -410
+[Sine] cycle=7605, x0=     0, x1= -3196, y0=  -137, y1=  -347
+[Sine] cycle=7615, x0= -6269, x1= -9102, y0=   794, y1=   239
+[Sine] cycle=7625, x0=-11584, x1=-13622, y0=  2362, y1=  1516
+[Sine] cycle=7635, x0=-15136, x1=-16068, y0=  4122, y1=  3260
+[Sine] cycle=7645, x0=-16383, x1=-16068, y0=  5368, y1=  4852
+[Sine] cycle=7655, x0=-15136, x1=-13622, y0=  5565, y1=  5611
+[Sine] cycle=7665, x0=-11584, x1= -9102, y0=  4709, y1=  5248
+[Sine] cycle=7675, x0= -6269, x1= -3196, y0=  3229, y1=  4015
+[Sine] cycle=7685, x0=     0, x1=  3196, y0=  1544, y1=  2397
+[Sine] cycle=7695, x0=  6269, x1=  9102, y0=  -244, y1=   667
+[Sine] cycle=7705, x0= 11584, x1= 13622, y0= -2181, y1= -1197
+[Sine] cycle=7715, x0= 15136, x1= 16068, y0= -4043, y1= -3153
+[Sine] cycle=7725, x0= 16383, x1= 16068, y0= -5247, y1= -4767
+[Sine] cycle=7735, x0= 15136, x1= 13622, y0= -5320, y1= -5433
+[Sine] cycle=7745, x0= 11584, x1=  9102, y0= -4417, y1= -4954
+[Sine] cycle=7755, x0=  6269, x1=  3196, y0= -3184, y1= -3803
+[Sine] cycle=7765, x0=     0, x1= -3196, y0= -1957, y1= -2583
+[Sine] cycle=7775, x0= -6269, x1= -9102, y0=  -172, y1= -1201
+[Sine] cycle=7785, x0=-11584, x1=-13622, y0=  3227, y1=  1272
+[Sine] cycle=7795, x0=-15136, x1=-16068, y0=  8604, y1=  5702
+[Sine] cycle=7805, x0=-16383, x1=-16068, y0= 14823, y1= 11735
+[Sine] cycle=7815, x0=-15136, x1=-13622, y0= 19694, y1= 17568
+[Sine] cycle=7825, x0=-11584, x1= -9102, y0= 21334, y1= 20988
+[Sine] cycle=7835, x0= -6269, x1= -3196, y0= 19217, y1= 20720
+[Sine] cycle=7845, x0=     0, x1=  3196, y0= 14093, y1= 16956
+[Sine] cycle=7855, x0=  6269, x1=  9102, y0=  7139, y1= 10777
+[Sine] cycle=7865, x0= 11584, x1= 13622, y0=  -677, y1=  3289
+[Sine] cycle=7875, x0= 15136, x1= 16068, y0= -8529, y1= -4657
+[Sine] cycle=7885, x0= 16383, x1= 16068, y0=-15356, y1=-12150
+[Sine] cycle=7895, x0= 15136, x1= 13622, y0=-19879, y1=-17982
+[Sine] cycle=7905, x0= 11584, x1=  9102, y0=-21122, y1=-20943
+[Sine] cycle=7915, x0=  6269, x1=  3196, y0=-18923, y1=-20428
+[Sine] cycle=7925, x0=     0, x1= -3196, y0=-13914, y1=-16711
+[Sine] cycle=7935, x0= -6269, x1= -9102, y0= -7054, y1=-10656
+[Sine] cycle=7945, x0=-11584, x1=-13622, y0=   785, y1= -3210
+[Sine] cycle=7955, x0=-15136, x1=-16068, y0=  8848, y1=  4837
+[Sine] cycle=7965, x0=-16383, x1=-16068, y0= 16263, y1= 12701
+[Sine] cycle=7975, x0=-15136, x1=-13622, y0= 21929, y1= 19388
+[Sine] cycle=7985, x0=-11584, x1= -9102, y0= 24727, y1= 23746
+[Sine] cycle=7995, x0= -6269, x1= -3196, y0= 23916, y1= 24795
+[Sine] cycle=8005, x0=     0, x1=  3196, y0= 19421, y1= 22104
+[Sine] cycle=8015, x0=  6269, x1=  9102, y0= 11880, y1= 15967
+[Sine] cycle=8025, x0= 11584, x1= 13622, y0=  2472, y1=  7321
+[Sine] cycle=8035, x0= 15136, x1= 16068, y0= -7333, y1= -2477
+[Sine] cycle=8045, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8055, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8065, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8075, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8085, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8095, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8105, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8115, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8125, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8135, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8145, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8155, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8165, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8175, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8185, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8195, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=8205, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8215, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8225, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8235, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8245, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8255, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8265, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8275, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8285, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8295, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8305, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8315, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8325, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8335, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8345, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8355, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=8365, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8375, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8385, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8395, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8405, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8415, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8425, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8435, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8445, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8455, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8465, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8475, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8485, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8495, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8505, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8515, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=8525, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8535, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8545, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8555, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8565, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8575, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8585, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8595, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8605, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8615, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8625, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8635, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8645, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8655, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8665, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8675, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=8685, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8695, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8705, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8715, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8725, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8735, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8745, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8755, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8765, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8775, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8785, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8795, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8805, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8815, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8825, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8835, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=8845, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=8855, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=8865, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=8875, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=8885, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=8895, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=8905, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=8915, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=8925, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=8935, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=8945, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=8955, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=8965, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=8975, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=8985, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=8995, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=9005, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=9015, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=9025, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=9035, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=9045, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=9055, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=9065, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=9075, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=9085, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=9095, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=9105, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=9115, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=9125, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=9135, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=9145, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=9155, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=9165, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=9175, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=9185, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=9195, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=9205, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=9215, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=9225, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=9235, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=9245, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=9255, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=9265, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=9275, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=9285, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=9295, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=9305, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=9315, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=9325, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=9335, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=9345, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=9355, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine] cycle=9365, x0=     0, x1= -3196, y0=-19526, y1=-22277
+[Sine] cycle=9375, x0= -6269, x1= -9102, y0=-11907, y1=-16024
+[Sine] cycle=9385, x0=-11584, x1=-13622, y0= -2476, y1= -7333
+[Sine] cycle=9395, x0=-15136, x1=-16068, y0=  7332, y1=  2475
+[Sine] cycle=9405, x0=-16383, x1=-16068, y0= 16023, y1= 11906
+[Sine] cycle=9415, x0=-15136, x1=-13622, y0= 22276, y1= 19525
+[Sine] cycle=9425, x0=-11584, x1= -9102, y0= 25137, y1= 24171
+[Sine] cycle=9435, x0= -6269, x1= -3196, y0= 24171, y1= 25137
+[Sine] cycle=9445, x0=     0, x1=  3196, y0= 19525, y1= 22276
+[Sine] cycle=9455, x0=  6269, x1=  9102, y0= 11906, y1= 16023
+[Sine] cycle=9465, x0= 11584, x1= 13622, y0=  2475, y1=  7332
+[Sine] cycle=9475, x0= 15136, x1= 16068, y0= -7333, y1= -2476
+[Sine] cycle=9485, x0= 16383, x1= 16068, y0=-16024, y1=-11907
+[Sine] cycle=9495, x0= 15136, x1= 13622, y0=-22277, y1=-19526
+[Sine] cycle=9505, x0= 11584, x1=  9102, y0=-25138, y1=-24172
+[Sine] cycle=9515, x0=  6269, x1=  3196, y0=-24172, y1=-25138
+[Sine->0] cycle=9525, x0=     0, x1=     0, y0=-19526, y1=-22277
+[Sine->0] cycle=9535, x0=     0, x1=     0, y0=-11907, y1=-16024
+[Sine->0] cycle=9545, x0=     0, x1=     0, y0= -2477, y1= -7333
+[Sine->0] cycle=9555, x0=     0, x1=     0, y0=  7321, y1=  2472
+[Sine->0] cycle=9565, x0=     0, x1=     0, y0= 15967, y1= 11880
+[Sine->0] cycle=9575, x0=     0, x1=     0, y0= 22104, y1= 19421
+[Sine->0] cycle=9585, x0=     0, x1=     0, y0= 24795, y1= 23916
+[Sine->0] cycle=9595, x0=     0, x1=     0, y0= 23746, y1= 24727
+[Sine->0] cycle=9605, x0=     0, x1=     0, y0= 19388, y1= 21929
+[Sine->0] cycle=9615, x0=     0, x1=     0, y0= 12701, y1= 16263
+[Sine->0] cycle=9625, x0=     0, x1=     0, y0=  4837, y1=  8848
+[Sine->0] cycle=9635, x0=     0, x1=     0, y0= -3210, y1=   785
+[Sine->0] cycle=9645, x0=     0, x1=     0, y0=-10656, y1= -7054
+[Sine->0] cycle=9655, x0=     0, x1=     0, y0=-16711, y1=-13914
+[Sine->0] cycle=9665, x0=     0, x1=     0, y0=-20428, y1=-18923
+[Sine->0] cycle=9675, x0=     0, x1=     0, y0=-20943, y1=-21122
+[Sine->0] cycle=9685, x0=     0, x1=     0, y0=-17982, y1=-19879
+[Sine->0] cycle=9695, x0=     0, x1=     0, y0=-12150, y1=-15356
+[Sine->0] cycle=9705, x0=     0, x1=     0, y0= -4657, y1= -8529
+[Sine->0] cycle=9715, x0=     0, x1=     0, y0=  3289, y1=  -677
+[Sine->0] cycle=9725, x0=     0, x1=     0, y0= 10777, y1=  7139
+[Sine->0] cycle=9735, x0=     0, x1=     0, y0= 16956, y1= 14093
+[Sine->0] cycle=9745, x0=     0, x1=     0, y0= 20720, y1= 19217
+[Sine->0] cycle=9755, x0=     0, x1=     0, y0= 20988, y1= 21334
+[Sine->0] cycle=9765, x0=     0, x1=     0, y0= 17568, y1= 19694
+[Sine->0] cycle=9775, x0=     0, x1=     0, y0= 11735, y1= 14823
+[Sine->0] cycle=9785, x0=     0, x1=     0, y0=  5702, y1=  8604
+[Sine->0] cycle=9795, x0=     0, x1=     0, y0=  1272, y1=  3227
+[Sine->0] cycle=9805, x0=     0, x1=     0, y0= -1201, y1=  -172
+[Sine->0] cycle=9815, x0=     0, x1=     0, y0= -2583, y1= -1957
+[Sine->0] cycle=9825, x0=     0, x1=     0, y0= -3803, y1= -3184
+[Sine->0] cycle=9835, x0=     0, x1=     0, y0= -4954, y1= -4417
+[Sine->0] cycle=9845, x0=     0, x1=     0, y0= -5433, y1= -5320
+[Sine->0] cycle=9855, x0=     0, x1=     0, y0= -4767, y1= -5247
+[Sine->0] cycle=9865, x0=     0, x1=     0, y0= -3153, y1= -4043
+[Sine->0] cycle=9875, x0=     0, x1=     0, y0= -1197, y1= -2181
+[Sine->0] cycle=9885, x0=     0, x1=     0, y0=   667, y1=  -244
+[Sine->0] cycle=9895, x0=     0, x1=     0, y0=  2397, y1=  1544
+[Sine->0] cycle=9905, x0=     0, x1=     0, y0=  4015, y1=  3229
+[Sine->0] cycle=9915, x0=     0, x1=     0, y0=  5248, y1=  4709
+[Sine->0] cycle=9925, x0=     0, x1=     0, y0=  5611, y1=  5565
+[Sine->0] cycle=9935, x0=     0, x1=     0, y0=  4852, y1=  5368
+[Sine->0] cycle=9945, x0=     0, x1=     0, y0=  3260, y1=  4122
+[Sine->0] cycle=9955, x0=     0, x1=     0, y0=  1516, y1=  2362
+[Sine->0] cycle=9965, x0=     0, x1=     0, y0=   239, y1=   794
+[Sine->0] cycle=9975, x0=     0, x1=     0, y0=  -347, y1=  -137
+[Sine->0] cycle=9985, x0=     0, x1=     0, y0=  -410, y1=  -425
+[Sine->0] cycle=9995, x0=     0, x1=     0, y0=  -256, y1=  -343
+[Sine->0] cycle=10005, x0=     0, x1=     0, y0=  -104, y1=  -172
+[Sine->0] cycle=10015, x0=     0, x1=     0, y0=   -27, y1=   -57
+[Sine->0] cycle=10025, x0=     0, x1=     0, y0=    -4, y1=   -11
+[Sine->0] cycle=10035, x0=     0, x1=     0, y0=     0, y1=    -1
+[Sine->0] cycle=10045, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10055, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10065, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10075, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10085, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10095, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10105, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10115, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10125, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10135, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10145, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10155, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10165, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10175, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10185, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10195, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10205, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10215, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10225, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10235, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10245, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10255, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10265, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10275, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10285, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10295, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10305, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10315, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10325, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10335, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10345, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10355, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10365, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10375, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10385, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10395, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10405, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10415, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10425, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10435, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10445, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10455, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10465, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10475, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10485, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10495, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10505, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10515, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10525, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10535, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10545, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10555, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10565, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10575, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10585, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10595, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10605, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10615, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10625, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10635, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10645, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10655, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10665, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10675, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10685, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10695, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10705, x0=     0, x1=     0, y0=     0, y1=     0
+[Sine->0] cycle=10715, x0=     0, x1=     0, y0=     0, y1=     0
