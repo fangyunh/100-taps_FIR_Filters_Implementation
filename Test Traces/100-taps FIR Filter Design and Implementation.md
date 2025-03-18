@@ -64,7 +64,9 @@ Quartus classifies the difficulty of packing the design as “Low,” implying t
 
 Overall, the pipelined FIR design exhibits a modest demand for general logic (6% ALM usage) yet heavily leverages DSP blocks (64%). This pattern reflects the multiply‐intensive nature of an FIR filter as well as the throughput benefits gained from a deeply pipelined approach. Total thermal power estimate for the design is 357.79 mW. These resource usage metrics affirm that the solution is well‐aligned with FPGA architectures that offer abundant hardware multipliers, allowing large FIR filters to be realized with plenty of remaining LUT and memory resources for other on‐chip functions.
 
-#### 2) Parallel L=2L=2L=2 FIR
+![](.\plots\pipelineFIR.png)
+
+#### 2) Parallel L=2 FIR
 
 In the parallel L=2 architecture, we split the filter into two-samples-per-clock processing. Conceptually, the design feeds two new input samples (x0 and x1) every clock into an internal structure that arranges the taps so that each cycle produces two outputs (y0 and ). This often involves a polyphase or partial-sum approach, where the filter’s coefficients are grouped into even and odd phases or are manipulated in a dual-rate shift register. In our design, we still store incoming samples in a shift register but shift it by two positions each clock. Then we compute each output by summing the appropriate products:
 
@@ -98,6 +100,8 @@ Quartus categorizes the packing difficulty as “Low,” indicating that no seve
 
 Overall, the parallel L=3 FIR filter efficiently processes three input samples per clock, achieving triple throughput versus a single‐sample design. Total thermal power estimate for the design is 357.87 mW. This design fully saturates the device’s DSP resources (156 of 156 blocks), yet only requires 7% of the ALMs and a small fraction of the available registers. Consequently, while the FIR quickly consumes hardware multipliers, it leaves ample LUT and RAM resources free for additional on‐chip tasks or logic.
 
+![](.\plots\paraL=3.png)
+
 #### 4) Pipeline + Parallel L=3 FIR
 
 Finally, the pipeline + parallel L=3 approach combines the deep pipelining logic of our first design with the 3× parallel input-output architecture of the third design. Internally, this means we have a shift register that shifts by three positions each clock, along with three sets of pipelined multiply-accumulate paths (one set for each of the three outputs). Each partial product is stored in pipeline registers, and each output has a chain of adder stages to accumulate 100 taps. The result is an extremely high-throughput filter (three new outputs every clock) that can still maintain a high clock frequency due to pipelining. The downside is more complexity and potentially higher resource usage, but it can be invaluable in applications that demand both large filter sizes and large data bandwidths.
@@ -109,6 +113,8 @@ Like the other parallel FIR variants, this design consumes all 156 DSP blocks on
 According to the report, this design uses about 36% of the device’s Logic Array Blocks (LABs) and exhibits moderate interconnect usage (peak around 24%). Quartus classifies the overall difficulty of packing as “Low,” meaning that, despite the design’s high consumption of DSP resources and relatively large pipeline depth, it did not encounter major congestion or routing conflicts.
 
 By combining deep pipelining with 3‐sample parallel processing, this FIR filter achieves a very high throughput per clock cycle, although it requires a significant share of the FPGA’s DSP blocks (completely filling the available multiplier resources). Total thermal power estimate for the design is 357.78 mW. Meanwhile, the ALM usage (16%) and register usage (20%) remain within moderate ranges, leaving some LUT and memory resources free for additional logic. This distribution of resources underscores that the pipeline+parallel L=3 approach is an excellent match for FPGAs abundant in DSP blocks, enabling large‐tap filters to run at high speeds with triple input throughput per cycle.
+
+![](.\plots\paraL=3pip6.png)
 
 #### 5) Organization
 
